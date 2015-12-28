@@ -1,0 +1,16 @@
+﻿@using G4.Mvc.Extensions
+@{    
+    Response.ContentType = "text/cache-manifest";
+}CACHE MANIFEST
+
+NETWORK:
+*
+
+CACHE:
+# JS files
+@Url.Content("~/Scripts/jquery-1.4.4.min.js").AppendHash(Request)
+
+# CSS files
+@Url.Content("~/Content/Site.css").AppendHash(Request)
+
+FALLBACK:

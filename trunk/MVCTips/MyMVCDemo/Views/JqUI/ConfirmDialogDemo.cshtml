@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "ConfirmDialogDemo";
+}
+
+<h2>ConfirmDialogDemo</h2>
+
+@using (Html.BeginForm("Delete", "Jq", FormMethod.Post, new {Id ="form1" }))
+{
+     <input type="file" name="myfile" />
+    <input type="submit" value="Confirm" id="savePatient" />    
+}
+
+<script type="text/javascript">
+    $(function () {
+        $("#savePatient").live("click", function (evt) {
+            evt.preventDefault();
+            alert("test");
+            $("input:file").css({ background: "yellow", border: "3px red solid" });
+            alert($("input[type=file][name=myfile]").val());
+        });
+    });
+
+</script>
+<div id="delConfirm"></div>
+
+@*<a href="#" id="show">Show Dialog</a>
+
+<div id="msg"></div>
+*@

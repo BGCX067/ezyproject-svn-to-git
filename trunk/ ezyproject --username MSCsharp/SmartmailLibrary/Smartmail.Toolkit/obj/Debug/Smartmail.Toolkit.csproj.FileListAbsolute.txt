@@ -1,0 +1,11 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Smartmail.Toolkit\bin\Debug\Smartmail.Toolkit.dll
+C:\Users\Administrator\AppData\Local\Temporary Projects\Smartmail.Toolkit\bin\Debug\Smartmail.Toolkit.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\Smartmail.Toolkit\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Smartmail.Toolkit\obj\Debug\Smartmail.Toolkit.dll
+C:\Users\Administrator\AppData\Local\Temporary Projects\Smartmail.Toolkit\obj\Debug\Smartmail.Toolkit.pdb
+f:\Temp\SmartmailLibrary\Smartmail.Toolkit\bin\Debug\Smartmail.Toolkit.dll
+f:\Temp\SmartmailLibrary\Smartmail.Toolkit\bin\Debug\Smartmail.Toolkit.pdb
+f:\Temp\SmartmailLibrary\Smartmail.Toolkit\obj\Debug\ResolveAssemblyReference.cache
+f:\Temp\SmartmailLibrary\Smartmail.Toolkit\obj\Debug\Smartmail.Toolkit.dll
+f:\Temp\SmartmailLibrary\Smartmail.Toolkit\obj\Debug\Smartmail.Toolkit.pdb
+f:\Temp\SmartmailLibrary\Smartmail.Toolkit\bin\Debug\ObjectDumper.dll

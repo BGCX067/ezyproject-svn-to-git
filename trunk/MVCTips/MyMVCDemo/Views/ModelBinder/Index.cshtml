@@ -1,0 +1,51 @@
+﻿@{
+    ViewBag.Title = "Index";
+
+    var products = (ViewBag.basket as MyMVCDemo.Models.Basket).Products;
+}
+
+<h2>Index</h2>
+
+
+@*@using (Html.BeginForm())
+{
+    <input type="hidden" name="selectedTagIds" value="1,2,3,4,5" />
+
+    <input type="submit" value="Submit" />
+}*@
+
+@using (Html.BeginForm()) {
+    
+    
+    
+    <div>
+    <table>
+    @for (int i = 0; i < products.Count; i++) {
+            <tr>
+                <td>Name</td>    
+                <td>@Html.TextBox(string.Format("products[{0}].Name",i),products[i].Name)</td>
+            </tr>   
+            <tr>
+                <td>Price</td>    
+                <td>@Html.TextBox(string.Format("products[{0}].Price",i),products[i].Price)</td>
+            </tr>           
+            <tr>
+                <td>Qty</td>    
+                <td>@Html.TextBox(string.Format("products[{0}].Qty", i), products[i].Qty)</td>
+            </tr>           
+            <tr>
+                <td colspan="2">@Html.Hidden(string.Format("products[{0}].Id", i), products[i].Id)</td>
+            </tr>                                    
+    }
+    </table>   
+
+    </div>
+    
+    <div>Total @Html.TextBox("Total", (@ViewData["basket"] as MyMVCDemo.Models.Basket).Total)</div>
+    
+    
+    <p>
+        <input type="submit" name="Submit" value="Submit" />
+    </p>
+}
+

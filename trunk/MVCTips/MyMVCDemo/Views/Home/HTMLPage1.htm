@@ -1,0 +1,121 @@
+﻿<form action="/Order/AddRecordAddHocStock2" method="post">
+<div class="popup-content popup-authorisation" id="popup-authorisation">
+    <h2>
+        Authorisation of stock on hand</h2>
+    <div class="guttered">
+        <div class="validation-summary-valid" data-valmsg-summary="true">
+            <ul>
+                <li style="display: none"></li>
+            </ul>
+        </div>
+        <h3>
+            Authoriser</h3>
+        <fieldset>
+            <legend>Please select your authoriser</legend>
+            <ol>
+                <li>
+                    <label class="fixed-width-label" for="Authoriser_FullName">
+                        Select authoriser</label>
+                    <select class="select" id="Authoriser_FullName" name="Authoriser.FullName">
+                        <option value="61">test test</option>
+                    </select>
+                </li>
+            </ol>
+        </fieldset>
+        <fieldset id="authDetails">
+            <h3>
+                Authoriser details</h3>
+            <legend>An overview of your authoriser&rsquo;s details</legend>
+            <ol>
+                <li>
+                    <label class="fixed-width-label">
+                        Preferred method is</label>
+                    <p>
+                        Email&nbsp;</p>
+                </li>
+                <li>
+                    <label class="fixed-width-label">
+                        Mobile</label>
+                    <p>
+                        &nbsp;</p>
+                </li>
+                <li>
+                    <label class="fixed-width-label">
+                        Email</label>
+                    <p>
+                        mscsharp@gmail.com&nbsp;</p>
+                </li>
+                <li>
+                    <label class="fixed-width-label">
+                        Home number</label>
+                    <p>
+                        &nbsp;</p>
+                </li>
+                <li>
+                    <label class="fixed-width-label">
+                        Work number</label>
+                    <p>
+                        &nbsp;</p>
+                </li>
+                <li>
+                    <label class="fixed-width-label">
+                        Request authorisation</label>
+                    <input type="button" id="btnSendSMS" value="Send SMS" class="button" />
+                    <input type="button" id="btnSendEmail" value="Send email" class="button" />
+                </li>
+            </ol>
+        </fieldset>
+        <fieldset>
+            <legend>An overview of your authoriser&rsquo;s details</legend>
+            <ol>
+                <li class="clearfix">
+                    <table>
+                        <tr>
+                            <td>
+                                Product
+                            </td>
+                            <td>
+                                Reported stock on hand
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                01870
+                            </td>
+                            <td>
+                                <input class="text-field small" id="OrderItems_0__StockOnHand" name="OrderItems[0].StockOnHand"
+                                    type="text" value="0" />
+                                <input id="OrderItems_0__Id" name="OrderItems[0].Id" type="hidden" value="0" />
+                                <input id="OrderItems_0__ProductName" name="OrderItems[0].ProductName" type="hidden"
+                                    value="01870" />
+                                <input id="OrderItems_0__MaxAllowance" name="OrderItems[0].MaxAllowance" type="hidden"
+                                    value="12" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                01870
+                            </td>
+                            <td>
+                                <input class="text-field small" id="OrderItems_1__StockOnHand" name="OrderItems[1].StockOnHand"
+                                    type="text" value="0" />
+                                <input id="OrderItems_1__Id" name="OrderItems[1].Id" type="hidden" value="0" />
+                                <input id="OrderItems_1__ProductName" name="OrderItems[1].ProductName" type="hidden"
+                                    value="01870" />
+                                <input id="OrderItems_1__MaxAllowance" name="OrderItems[1].MaxAllowance" type="hidden"
+                                    value="1" />
+                            </td>
+                        </tr>
+                    </table>
+                </li>
+                <li class="clearfix">
+                    <label class="fixed-width-label" for="Note">
+                        Notes</label>
+                    <textarea class="text-area" cols="60" id="Note" name="Note" row="5" rows="2">
+</textarea>
+                </li>
+            </ol>
+        </fieldset>
+    </div>
+</div>
+</form>

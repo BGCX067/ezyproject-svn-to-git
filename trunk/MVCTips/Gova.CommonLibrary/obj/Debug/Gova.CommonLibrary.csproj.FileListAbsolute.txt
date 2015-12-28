@@ -1,0 +1,10 @@
+C:\@CodeTemp\MyMVCDemo\Gova.CommonLibrary\bin\Debug\Gova.CommonLibrary.dll
+C:\@CodeTemp\MyMVCDemo\Gova.CommonLibrary\bin\Debug\Gova.CommonLibrary.pdb
+C:\@CodeTemp\MyMVCDemo\Gova.CommonLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\@CodeTemp\MyMVCDemo\Gova.CommonLibrary\obj\Debug\Gova.CommonLibrary.dll
+C:\@CodeTemp\MyMVCDemo\Gova.CommonLibrary\obj\Debug\Gova.CommonLibrary.pdb
+C:\@CodeTemp\MVCTips\Gova.CommonLibrary\bin\Debug\Gova.CommonLibrary.dll
+C:\@CodeTemp\MVCTips\Gova.CommonLibrary\bin\Debug\Gova.CommonLibrary.pdb
+C:\@CodeTemp\MVCTips\Gova.CommonLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\@CodeTemp\MVCTips\Gova.CommonLibrary\obj\Debug\Gova.CommonLibrary.dll
+C:\@CodeTemp\MVCTips\Gova.CommonLibrary\obj\Debug\Gova.CommonLibrary.pdb

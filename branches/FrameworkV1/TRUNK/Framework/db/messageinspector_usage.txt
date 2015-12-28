@@ -1,0 +1,19 @@
+
+<system.serviceModel> 
+  ........... 
+  <behaviors> 
+    <endpointBehaviors> 
+      <behavior name="jsonEndpoint"> 
+        <webHttp /> 
+        <MessageInspector /> <!-- Associate message inspector to all endpoints which use "jsonEndpoint" behavior -->
+      </behavior> 
+    </endpointBehaviors> 
+  </behaviors>
+  <!-- Behavior extensions, must configure this first -->
+  <extensions> 
+   <behaviorExtensions> 
+     <add name="MessageInspector" type="Pfizer.WinRewards.WCF.Core.MessageLoggingBehaviorExtension, WCF, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" /> 
+   </behaviorExtensions> 
+  </extensions>
+  
+</system.serviceModel>

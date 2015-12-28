@@ -1,0 +1,86 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Models/f:Person.cs" caret="336" fromTop="12" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Controllers/f:HomeController.cs" caret="844" fromTop="10" />
+      <File id="05213EF8-B127-4D88-B15D-A420CD4471C5/d:Extensions/f:EnumExtension.cs" caret="309" fromTop="4" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Views/d:Shared/f:_Layout.cshtml" caret="257" fromTop="6" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Views/d:JqUI/f:Index.cshtml" caret="57" fromTop="6" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Views/d:Home/f:TestEnum.cshtml" caret="0" fromTop="0" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Controllers/f:JqUIController.cs" caret="477" fromTop="21" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Views/d:JqUI/f:ConfirmDialogDemo.cshtml" caret="608" fromTop="19" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Scripts/f:Common.js" caret="3064" fromTop="8" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Controllers/f:ModelBinderController.cs" caret="459" fromTop="21" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Controllers/f:StudentEnrollController.cs" caret="2116" fromTop="42" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Views/f:_ViewStart.cshtml" caret="52" fromTop="2" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Models/f:Student.cs" caret="89" fromTop="4" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Views/d:AjaxFormDemo/f:Index.cshtml" caret="96" fromTop="7" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Views/f:Web.config" caret="1201" fromTop="18" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Views/d:Home/f:HTMLPage1.htm" caret="60" fromTop="1" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Scripts/f:Common.js" caret="3854" fromTop="12" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Scripts/f:Common.js" caret="3792" fromTop="17" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Controllers/f:JqUIController.cs" caret="512" fromTop="19" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Controllers/f:JqUIController.cs" caret="526" fromTop="20" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Scripts/f:Common.js" caret="2547" fromTop="14" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Scripts/f:Common.js" caret="3863" fromTop="29" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Scripts/f:Common.js" caret="3005" fromTop="29" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Views/d:JqUI/f:ConfirmDialogDemo.cshtml" caret="665" fromTop="14" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Scripts/f:Common.js" caret="3798" fromTop="15" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Scripts/f:Common.js" caret="3670" fromTop="29" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Scripts/f:Common.js" caret="3122" fromTop="22" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Scripts/f:Common.js" caret="3616" fromTop="24" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Scripts/f:Common.js" caret="2513" fromTop="9" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Scripts/f:Common.js" caret="2516" fromTop="19" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Scripts/f:Common.js" caret="2509" fromTop="14" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Scripts/f:Common.js" caret="3421" fromTop="10" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Scripts/f:Common.js" caret="1974" fromTop="6" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Scripts/f:Common.js" caret="2304" fromTop="17" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Views/d:JqUI/f:ConfirmDialogDemo.cshtml" caret="199" fromTop="8" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Views/d:JqUI/f:ConfirmDialogDemo.cshtml" caret="584" fromTop="18" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Views/d:AjaxFormDemo/f:Index.cshtml" caret="39" fromTop="1" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Models/f:Student.cs" caret="555" fromTop="20" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Models/f:Student.cs" caret="89" fromTop="4" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Views/f:Web.config" caret="1234" fromTop="15" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Views/d:AjaxFormDemo/f:Index.cshtml" caret="222" fromTop="13" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Views/d:AjaxFormDemo/f:Index.cshtml" caret="96" fromTop="7" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Views/d:Home/f:HTMLPage1.htm" caret="5218" fromTop="3" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Views/d:Home/f:HTMLPage1.htm" caret="0" fromTop="0" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Views/d:Home/f:HTMLPage1.htm" caret="5218" fromTop="50" />
+      <File id="9F25642D-0CB8-4D93-B37E-B4BA78A4739B/d:Views/d:Home/f:HTMLPage1.htm" caret="5216" fromTop="20" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="1" />
+      <Item value="ActionResult`0" priority="1" />
+      <Item value="return" priority="1" />
+      <Item value="View`0" priority="1" />
+      <Item value="HttpPost" priority="0" />
+      <Item value="Microsoft" priority="1" />
+      <Item value="using" priority="0" />
+      <Item value="MS" priority="0" />
+      <Item value="Web" priority="0" />
+      <Item value="Mvc" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

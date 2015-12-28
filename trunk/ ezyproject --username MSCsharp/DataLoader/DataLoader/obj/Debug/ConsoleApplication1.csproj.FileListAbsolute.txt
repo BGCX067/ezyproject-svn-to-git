@@ -1,0 +1,9 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\Smartmail.Toolkit.dll
+C:\Users\Administrator\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\Smartmail.Toolkit.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ObjectDumper.dll
+C:\Users\Administrator\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\NZVEHEXT.txt

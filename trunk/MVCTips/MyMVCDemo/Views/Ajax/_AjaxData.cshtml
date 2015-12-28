@@ -1,0 +1,5 @@
+﻿contentTypeString 
+
+Default: 'application/x-www-form-urlencoded'
+ 
+When sending data to the server, use this content-type. Default is "application/x-www-form-urlencoded", which is fine for most cases. If you explicitly pass in a content-type to $.ajax() then it'll always be sent to the server (even if no data is sent). Data will always be transmitted to the server using UTF-8 charset; you must decode this appropriately on the server side.

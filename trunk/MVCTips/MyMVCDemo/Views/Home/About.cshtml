@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "About Us";
+}
+
+<h2>About</h2>
+<p>
+     Put content here.
+</p>
+@using(Html.BeginForm("CheckDate","Home")){
+<input type="text" class="datepicker" name="selectedDate" />
+    <input type="submit" value="Check Date" />
+}
+
+@section bottom{
+    <script type="text/javascript" src="@Url.Content("~/Scripts/form1.js")"></script>
+}
